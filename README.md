@@ -1,2 +1,2 @@
-# chat system
-finding out fine to be paid for crossing out the due date
+# unofficial college chat system 
+//an chat system using html,css,js and firebase database system
