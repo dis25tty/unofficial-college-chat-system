@@ -1,6 +1,6 @@
 # unofficial college chat system 
 //an chat system using html,css,js and firebase database system
-
+firebase is the extended database here
 
 ![image](https://user-images.githubusercontent.com/83459637/206887596-f224df2b-a081-4831-955c-973146f28511.png)
 ![image](https://user-images.githubusercontent.com/83459637/206887648-74d56f04-b12b-4827-9e99-7840c8791cba.png)
